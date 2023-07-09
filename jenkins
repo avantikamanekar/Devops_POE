@@ -2,7 +2,7 @@
 {
   environment
   {
-    registry = "avantikamanekar/demoimage"
+    registry = "avantikamanekar/devopspoe"
     registryCredential = 'dockerid'
     dockerImage = ''
   }
