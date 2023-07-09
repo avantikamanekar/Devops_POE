@@ -3,7 +3,7 @@
   environment
   {
     registry = "avantikamanekar/devopspoe"
-    registryCredential = 'dockerid'
+    registryCredential = 'docker'
     dockerImage = ''
   }
 agent any
